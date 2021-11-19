@@ -6,7 +6,7 @@ We would like to thank ***Iván Vladimir*** for all his help developing the soft
 
 **Team members:**
 - Bárbara Libório
-- Marina Gama
+- Marina Gama Cubas
 - Helena Bertho
 - Gaby Bouret
 - Jose Luis Peñarredonda
